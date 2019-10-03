@@ -44,9 +44,7 @@ You will need a computer with access to the internet and access to a command lin
 5. Lauch jupyter by running: `jupyter notebook`
 6. Select the hcds-a1-data-curation notebook.
 
-## Results issues and considerations
-
-### Results
+## Results
 
 ![Graphs of page views from the English Wikipedia between January 1st 2008 through August 30th 2019](./assets/images/wikipedia_page_views.png)
 
@@ -65,7 +63,7 @@ The cleaned data file `en-wikipedia-traffic_200801-201908.csv`, has the followin
 
 **Months for which no data was available have a value of 0.**
 
-### Considerations
+## Considerations
 
 Data from the Legacy Pagecounts API has desktop and mobile data from December 2007 to July 2016. 
 
